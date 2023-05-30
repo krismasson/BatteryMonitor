@@ -1,0 +1,1 @@
+C:\Users\Kris\source\repos\BattStuff\BattStuff\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppPackages\BattStuff_1.0.0.1_Debug_Test\BattStuff_1.0.0.1_x86_Debug.msix

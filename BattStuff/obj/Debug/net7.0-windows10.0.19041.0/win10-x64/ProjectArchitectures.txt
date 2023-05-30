@@ -1,0 +1,1 @@
+C:\Users\Kris\source\repos\BattStuff\BattStuff\BattStuff.csproj;x64
